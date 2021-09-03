@@ -1,0 +1,56 @@
+BATS can be used to :
+test command line commands 
+status of the command 
+Output of command can be verified 
+Output
+Lines
+Share common method across file
+
+BATS TEST EVALUATION :
+       n +1
+First run, gives the count of test cases
+Then, iterates over the test cases and executes each one in its own process.
+
+
+
+ Invoke bats interpreter with multiple test arguments or with path to a directory containing multiple .bats files.
+
+Bats will run each test file individually and aggregate the results
+
+If test case fails, bats exits with a 1 status code.
+
+
+run,lines
+
+
+run is Helper that invokes its argument as a command.
+
+Saves the exit status in status variable
+
+Output of it is stored in output global variable.It also has the standard error message.
+
+Using this we can continue to make assertion in your test cases.
+
+lines is an array it is used for easily accessing indivual line of output.
+
+
+Set up and Tear DOwn
+Special function are setup and teardown
+
+Setup run before running any test case
+
+Teardown run after each test case
+
+Setup can be used to setup your environment
+
+Teardown can be used to clean up
+
+
+Key points
+To run test cases, bat package has to be installed.
+All the Test cases needs to be stored in .bat file
+All test cases should begin with @test
+Setup and teardown is always executed at the beginning and at the end of each test cases respectively.
+Setup : sets up environment
+Teardown : cleans up after testing
+

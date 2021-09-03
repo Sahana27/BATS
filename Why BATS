@@ -1,0 +1,41 @@
+Why BATS
+
+SAVE TIME AND MONEY
+=> Tests that has to be repeating while writing the script to ensure quality.
+=> Test on the script is repeated every time the script is modified.
+=> Before deploying the script, script has to be tested on the specific  environment.
+=> Manually doing this test an be time consuming and costly.
+=> Automated test can run over and over again at no additional cost and are faster.
+=>Automated testing of script can reduce time to run repetitive test .
+=>This time saving can be translated directly to cost.
+
+Testing improves Accuracy
+=>Manually testing the script , tester may tend to commit mistake.
+=>Automated tests perform the same steps precise
+
+Increase Test Coverage
+Testing increases the depth and scope of tests to help improve software quality
+Lengthy script and script that run for long duration , can be automted 
+Automating test case, we can also check if the the system is in desired state 
+
+Test help developers:
+=> Test can run automatically, Whenever the test executes  completely, it specifies to the developer, which feature fails and hence, 
+=>these saves developers time and increase their confidence.
+
+Improves Team Morale
+=>AUTOMATED software testing increases team morale.
+=>Doing Automation Testing, gives team time to spend on more challenging and rewarding projects.
+=>Team members improve their skill and confidence.
+
+
+HOW BATS 
+==>  Features provided by BATS
+
+What is BAT
+==>
+
+SImple: Run cmmand to check folder exists
+Medium : output f this is used to 
+Complex  : rbenv
+
+

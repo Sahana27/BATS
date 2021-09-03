@@ -1,0 +1,67 @@
+BATS Chaos
+Shell interpreter
+Runs Unix and Linux Commands
+Commands Passed from Application  are executed by BASH
+
+Manual Testing command is time consuming
+Commands
+> /dev/sda :destroying data
+> file : used with any configuration file
+dd if=/dev/random of=/dev/sda : Erases present data and writes junk
+To see how command works in that particular environment.
+
+
+BATS Philosophy :
+TAP
+TAP is a text Based interface between testing module and testing harness.
+
+TAP was first written for PERL testing.
+Later different testing frameworks were written for C,C++,Java, Python and BASH
+
+
+BATS
+BATS : Bash Automation Testing System
+TAP-compliant framework for testing BASH
+BATS helps us to verify the UNIX program 
+   and checks if it works as expected.
+BATS test file is a BASH script with special syntax for defining test cases.
+Each Test case is just a function with a description.
+BATS is more useful in testing software written in BASH. 
+Test cases consists of standard shell commands
+Every command in BATS test cases exits with 0 (success).
+
+BATS Behavior
+Test any Unix and Linux command
+Exit status of unix command can be verified
+Output of command executed is verified
+Specific line of output can be verified
+To run test cases, bat package has to be installed.
+All the Test cases need to be stored in .bat file
+All test cases should begin with @test
+Setup and teardown is always executed at the beginning and at the end of each test cases respectively.
+Setup : sets up environment
+Teardown : cleans up after testing
+
+
+USes of BATS
+tests command line commands 
+status of the command executed is tested
+output of command can be verified using output keyword 
+Share common method across file testhelper file
+we can skip test cases.
+
+
+Execution and Evaluation
+       n +1
+First run, gives the count of test cases
+Then, iterates over the test cases and executes each one in its own process
+
+
+BATS Syntax
+Here, 
+#!/usr/bin/env bats  , this is used to specify that the script has to be executed by bat
+@test is the command to specify that it is a test case
+String in quotes  “test_case_name” : test definition is declared.
+A space between definition and curly braces is necessary
+Command executed , inside the curly braces, the LINUX command is executed
+The closing curly braces is always at the next line.

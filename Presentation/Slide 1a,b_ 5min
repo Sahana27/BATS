@@ -1,0 +1,65 @@
+Slide 1a,b: 5min
+PPT Content
+Bash is Shell Interpreter. It executes commands that is passed by application
+
+		OR
+
+Bash runs command that are passed to it through the application
+
+
+Why we need Automation Testing for BASH?
+Output of few commands not known : TO check that we manually run command in the command line 
+	This would be time time consuming
+	If command is a deadly command, we would not know the consequence of running that command.
+	Running Deadly command unknowingly might destroy the machine, 
+	then rebuilding the machine is duplication of work 
+
+Sometime, we also need to know How the command work in the project environment. Hence we cannot manually set up the environment if we have automated test cases, we would be to create the environment. Run the command and verify if it executed as expected
+
+All this lead to TAP , TAP is Test Anything Protocol
+It is simple text based interface between testing module in a test harness. Test HArness is an enabler that does all the work form rsetting up environment, haviing input file, running test case and generating report from test case 
+TAp was used as Test Harness for Perl but now it has implementation for C , C++, Python,PHP, Perl, Java , JavaSCript and Bash
+
+Slide 2 : 3min
+BATS Philosophy
+
+BATS Bash Automatwd Testing System.
+BATS is a TAP -complaint testing framework
+It is used to verify UNIX program and verify if it behaves as expected
+
+BATS Behavior are :
+==>Test any command written using Shell Scripting language
+==>Exit status of the command executed can be verified
+==>The output of the command can be checked, if it as expected
+==>Partial output of the shell command executed can be verified
+
+Slide 3: 6min
+ BATS Gambit
+ Lets now look into one simple example of BATS
+ First lets look into the code , to check if the disk is in read write mode
+ Consider the example  to check disk space using df -h
+ Also check the test case written for that using bats
+ Syntax of bats is
+
+ Slide 4:
+ EVALUATION AND EXECUTION
+  WHat happens when we give bats test_name.bat
+  While running BATS test cases , it first check for number of test cases present and then execute each test case sequential
+If all test cases are executed successfully statu code is 0 else status code exits with 1
+
+To execute bats test case we need to provide bats keyword followed by path of bats test case file.
+
+Step 5 : Questions
+
+
+
+
+ 
+
+
+
+
+
+
+
+

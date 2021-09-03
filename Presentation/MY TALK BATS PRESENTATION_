@@ -1,0 +1,89 @@
+MY TALK BATS PRESENTATION :
+Good Afternoon All, Lets begin our discussion on Bash AUtomated Test System popularly known as BATS.
+
+Before we begin, lets walk through the topics we will be covering in todays discussion.
+Firstly we will look into BASH Chaos : In this we will see , usually what we do while writing a script, rather than saying problems we face while writing script, lets say how we as shell script programmers usually write code. and also few points about automation
+
+Then, we will talk about BATS Philosophy : in this , we will talk about what protocol led to BATS. What BAT is all about
+
+Once we know about BATs, we need to know how we can work with it or the design  so lets check  what HAppens when BATS is in ACTION
+
+Then Once we have seen BATS in ACTION, we need to know how we use it...what syntax to follow
+
+Then Finally, from where i hacked these information :P 
+
+Last but not the least, any queries or concern any suggestion
+
+
+Lets Begin, with BASH Chaos
+Lets know statastics, about few of programming languages.
+How many of you like or been working on Perl?
+ " "   "
+" "
+" "
+" "
+" Pyhton ? Java C and C++ and Shell SCripts
+
+Cool there are few counts on shell, I guess this session would help you to an extent.
+Well, as you all know Shell scripting has been around from quite a few years.Even in Cerner,  there are quite a lot of teams who have been using Shell scripting including our team.Shell script basically contains, unix and linux commands
+Shell script uses Bash Interpreter to run these commands.
+
+This is how we in our team or most of us working with shell scripting do, when we are asked to write code , when we have to use Linux or Unix command. 
+We first run the command in command line and check, if we get output as expected. Doing this every time , we would spend lot of time.
+In Linux,there are strong commands like rm -r * or > /dev/null , if these commands are used correctly with proper filename, then it is very useful.. else it will be a nightmare. IF used on wrong file or folder it might break the system hence creating file is tough if there are no backup.
+More importantly, we need to know, how the command would execute in the production environment. For this we might have to manually set up environment and then test. This takes a lot of time for developer on testing.
+
+To overcome all this, Automation Testing can be used.
+All the Drawbacks of manual testing can be overcome.
+Automation testing is done through code. Process of setting up the environment, running the test case, generating the result of test cases executed and destroying the environment.
+Since automation testing is done through code, Developer need not have to waste time in running the command in command line and also setting up the enviromment. Also, if we use strong commands which was mentioned earlier , if used incorrectly, it will destroy the actual production environment
+
+BATS Philosophy :
+BATS uses TAP Protocol.
+TAP is nothing but test anything Protocol. It is a text based interface for the testing module and testing harness.
+TAP was first used to write testing framework for PERL. Now this protocol has been used by other languages to write software are Python, Java, C , C++, BASH.
+
+Here comes BATS : BASH Automated Testing System : 
+It is a n automation framework developed by Sam Stephenson using TAP protocol.Basically used to test Unix and Linux commands.
+BATS is similiar to Shell Scripts, with special syntax.
+
+
+BATS Design :
+Now that we know what is BATS lets look into the Design or WorkFLow of BATS
+
+BATS test cases are saved in .bats file. These test cases can be placed in a folder.
+When we run this test case with bats command along with path of the .bats file.
+The BATS library first scans each of the .bats files and get the count of number of test cases.
+Once the count of test cases is Obtained, the bats starts run on each of the test cases
+Test cases if success exits with 0 else exits with non zero
+If any of the test case fails. Bats stops its execution
+Once the Test case is executed, the report can be generated, 
+which can be sent as a mail or can be sent through IRC Channels.
+
+BATS IN ACTION
+Now, lets consider, an real times example  : Shell script to get the disk size of /dev/sda1 disk
+
+The shell script goes like this
+
+For this we can write quite a lot of test case. For now i'm considering two test cases
+
+Test case 1 to check if commant df -h executes successefully
+Test  case 2 : to check the output of df -h /dev/sda1
+
+This is how the test case looks like
+
+Now When I run bats with my bats test case file name (.bat)
+
+AS i said earlier, it first gets the count , then starts running the test case i.e n+1 n is the number of test case present
+
+Now, we have seen what is BATS,How BATS Work, And an Example of BATs Test case.
+What is left, is How we write BATS or syntax of BATS
+
+All the BATS test case are written in .bats file
+#!/usr/bin/env bats  , this is used to specify that the script has to be executed by bat
+@test is the command to specify that it is a test case
+String in quotes  “test_case_name” : test definition is declared.
+A space between definition and curly braces is necessary
+Command executed , inside the curly braces, the LINUX command is executed
+The closing curly braces is always at the next line.
+ALways remember, echo statements are not printed on the screen to capture the echo statement we need to redirect it to a file

@@ -1,0 +1,1430 @@
+<zuiprezi>
+  <version>10</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-21888.77788821049" y="-13145.615870508238" width="43812.375992039015" height="26289.36712692686"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="1_24309637" type="button" x="-146.63834271075876" y="7.384532106215698" r="0" s="39.25991250541664" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1108.990112</w>
+        <h>670.5650024</h>
+      </size>
+      <layout>
+        <template value="none"/>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="shape" x="-7351.253414334999" y="-2038.397134152146" r="-95.89548884438872" s="5.018249525400439" class="line3">
+      <geom type="line">
+        <sp>-282.34999908230975 0</sp>
+        <ep>282.34999908230975 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="16_30863873" type="button" x="-7608.180720249032" y="-5330.914731107336" r="2.9669353371861187e-16" s="4.803063752507365" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="17_30863873" type="button" x="-1272.7748884934113" y="-8667.084652464988" r="2.966935337186118e-16" s="4.803063752507365" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="19_30863873" type="button" x="9943.913221458202" y="977.8625500763626" r="2.966935337186115e-16" s="5.465416704821443" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="20_30863873" type="button" x="-7184.0980038942325" y="629.8730250769732" r="2.966935337186115e-16" s="3.219625965233417" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="21_30863873" type="shape" x="-4593.445564365005" y="-3033.2374597773287" r="34.44849179450087" s="13.770076697698796" class="line3">
+      <geom type="line">
+        <sp>136.6134666822148 0</sp>
+        <ep>-136.61346668221478 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="22_30863873" type="shape" x="4467.762425938911" y="-4180.067806240281" r="131.68653081985724" s="5.018249525400436" class="line3">
+      <geom type="line">
+        <sp>614.6173994165391 0</sp>
+        <ep>-614.617399416539 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="23_30863873" type="shape" x="5399.9374380628815" y="318.66732589171" r="-169.5669973449051" s="13.770076697698796" class="line3">
+      <geom type="line">
+        <sp>174.78970776810715 0</sp>
+        <ep>-174.78970776810718 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="24_30863873" type="shape" x="-876.275650485434" y="-5013.440235458435" r="84.10451115561128" s="13.770076697698784" class="line3">
+      <geom type="line">
+        <sp>129.08957579697895 0</sp>
+        <ep>-129.08957579697898 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="1_30863873" type="shape" x="3318.9382737403425" y="-7620.793193222997" r="4.245831705923355" s="5.0182495254004404" class="line3">
+      <geom type="line">
+        <sp>-577.4050081124967 0</sp>
+        <ep>577.4050081124967 0</ep>
+        <t>8</t>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_30863873" type="text" x="-149.28822708199243" y="8115.485141957609" r="0" s="147.24462173180365" class="head">
+      <height>28.8</height>
+      <width>239.0427444</width>
+      <p align="center">
+        <text><![CDATA[BATS]]></text>
+      </p>
+    </object>
+    <object id="8" type="image" x="-6482.68620842574" y="657.6719893185417" r="2.9669353371861157e-16" s="1.1637805689361966">
+      <source w="683" h="1024">1447049198<url>1447049198.jpg</url></source>
+      <sourceUrl>the-dark-knight.jpg</sourceUrl>
+    <resource><id>1447049198</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/b/7/e1b0e5430652d23e53df5f70d8ac9320a47d7.jpg</url></resource></object>
+    <object id="2_30863873" type="text" x="-7193.637201575501" y="-364.6455786413422" r="2.96693539157e-16" s="7.097899781948181" class="strong">
+      <height>27.1875</height>
+      <width>220.49939</width>
+      <p align="center">
+        <text color="16711680"><![CDATA[WHY BATS]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="20_30863873"/>
+      </layout>
+    </object>
+    <object id="4_30863873" type="text" x="-7502.798336565804" y="762.2314744809169" r="2.96693539157e-16" s="3.273860296761456" class="body">
+      <height>543.75</height>
+      <width>428.1737785</width>
+      <p listType="bullet" indent="1">
+        <text color="7326720" weight="bold"><![CDATA[ Save time and Money:]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[good quality of code]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[code to test environment]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="7326720" weight="bold"><![CDATA[ Testing improves Accuracy]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[testing is precise]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="7326720" weight="bold"><![CDATA[ Increase test coverage]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[improves quality of code]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="7326720" weight="bold"><![CDATA[ Automated test help developer.]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[specifies which feature fails]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[saves time]]></text>
+      </p>
+      <p indent="1">
+        <text color="7326720" weight="bold"><![CDATA[  ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="7326720" weight="bold"><![CDATA[Improves team morale  ]]></text>
+      </p>
+      <p indent="2">
+        <text color="7326720"><![CDATA[increase morality]]></text>
+      </p>
+      <p>
+        <text color="7326720"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="7326720"><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="20_30863873"/>
+      </layout>
+    </object>
+    <object id="0" type="image" x="12697.202841193137" y="7866.205335725438" r="0" s="14.966535189689786">
+      <source w="600" h="300">1446941128<url>1446941128.jpg</url></source>
+      <sourceUrl>batman-logo.jpg</sourceUrl>
+    <resource><id>1446941128</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/2/0/41a7529e186401ebe65be5d089fd897d96e74.jpg</url></resource></object>
+    <object id="1" type="image" x="-13052.458600691107" y="7903.625749628455" r="0" s="15.258613861756807">
+      <source w="600" h="300">1446943873<url>1446943873.jpg</url></source>
+      <sourceUrl>batman-logo.jpg</sourceUrl>
+    <resource><id>1446943873</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/d/3/1aac129aaed56c4fc06374cd804fe8c7f3ea1.jpg</url></resource></object>
+    <object id="2" type="image" x="-15207.699715836863" y="153.37753472654688" r="0" s="7.865853890190304">
+      <source w="1600" h="1000">1446952173<url>1446952173.jpg</url></source>
+      <sourceUrl>batman-the-dark-knight-rises.jpg</sourceUrl>
+    <resource><id>1446952173</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/a/b/e0d0276aefa563f6556dcdb79ac9ff688c6f0.jpg</url></resource></object>
+    <object id="3" type="image" x="-15627.575203093673" y="-9263.365273915952" r="0" s="6.108556092770993">
+      <source w="1920" h="1080">1446959613<url>1446959613.jpg</url></source>
+      <sourceUrl>batmangame.jpg</sourceUrl>
+    <resource><id>1446959613</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/c/c/4a57c7ef990b3ec9b15aab95fc4fe03c32e2d.jpg</url></resource></object>
+    <object id="4" type="image" x="16148.03478477875" y="-6223.866673816803" r="0" s="16.808427284130566">
+      <source w="471" h="640">1446966983<url>1446966983.png</url></source>
+      <sourceUrl>batman.png</sourceUrl>
+    <resource><id>1446966983</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/c/e/026e3f82548af401bdedb6d722b7ac0e98300.png</url></resource></object>
+    <object id="5_30863873" type="text" x="-7652.643055386725" y="-6886.60237261265" r="2.9669353915700006e-16" s="10.588702851296652" class="strong">
+      <height>27.1875</height>
+      <width>243.29939</width>
+      <p align="center">
+        <text color="16762854"><![CDATA[How BATS]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="16_30863873"/>
+      </layout>
+    </object>
+    <object id="0_71340841" type="image" x="-8513.600857763915" y="-5376.417309065416" r="2.9669353371861177e-16" s="1.557548832110337">
+      <source w="1920" h="1080">1450523218<mask x="0" y="0" w="791" h="1080"/>
+      <url>1450523218.jpg</url></source>
+      <sourceUrl>batman%20image!!!.jpg</sourceUrl>
+    <resource><id>1450523218</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/7/7/850068557231b80ee170b7bd67105553f3e10.jpg</url></resource></object>
+    <object id="6_30863873" type="text" x="-7651.652500046599" y="-5567.0880336465625" r="2.966935391570001e-16" s="4.192606161128257" class="strong">
+      <height>217.5</height>
+      <width>671.8105723</width>
+      <p align="right" listType="bullet" indent="1">
+        <text><![CDATA[Uses of BATS]]></text>
+      </p>
+      <p align="right">
+        <text color="3247103"><![CDATA[]]></text>
+      </p>
+      <p align="right" listType="bullet" indent="1">
+        <text><![CDATA[BATS Test case Evaluation]]></text>
+      </p>
+      <p align="right">
+        <text color="3247103"><![CDATA[]]></text>
+      </p>
+      <p align="right" listType="bullet" indent="1">
+        <text><![CDATA[Running BATS Test Cases]]></text>
+      </p>
+      <p align="right">
+        <text color="3247103"><![CDATA[]]></text>
+      </p>
+      <p align="right" listType="bullet" indent="1">
+        <text><![CDATA[Test Suite]]></text>
+      </p>
+      <p>
+        <text color="3247103"><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="16_30863873"/>
+      </layout>
+    </object>
+    <object id="28_71340841" type="button" x="-2079.4921103624715" y="-11771.079716566084" r="0" s="2.5660979262227808" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="7_30863873" type="text" x="-1305.018083817431" y="-10134.126139789485" r="2.9669353915700006e-16" s="8.322888278566124" class="strong">
+      <height>54.375</height>
+      <width>220.49939</width>
+      <p align="center">
+        <text color="14728010"><![CDATA[BATS Uses and Evaluation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="17_30863873"/>
+      </layout>
+    </object>
+    <object id="15_71340841" type="button" x="8037.951728657371" y="-10950.836322141786" r="0" s="3.4182390897889174" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="18_30863873" type="button" x="7738.530675781483" y="-7585.407712305558" r="2.9669353915700006e-16" s="3.593273913754499" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="5_71340841" type="image" x="9867.806471057287" y="-87.25947195604878" r="2.9669353371861157e-16" s="1.1018159187475962">
+      <source w="2160" h="1026">1450671593<url>1450671593.jpg</url></source>
+      <sourceUrl>Batmobiles.jpg</sourceUrl>
+    <resource><id>1450671593</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/d/6/f6638b8bfe618364024eb25a9364d2f77e4da.jpg</url></resource></object>
+    <object id="11_30863873" type="text" x="9867.483785013654" y="-460.58320175328" r="2.96693539157e-16" s="12.048908732129489" class="strong">
+      <height>27.1875</height>
+      <width>220.49939</width>
+      <p align="center">
+        <text color="7326720"><![CDATA[TEST SUITE ]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="19_30863873"/>
+      </layout>
+    </object>
+    <object id="12_30863873" type="text" x="9870.643151409235" y="1546.151049930876" r="2.966935391570001e-16" s="4.7894371522355845" class="body">
+      <height>326.25</height>
+      <width>523.202461885057</width>
+      <p>
+        <text><![CDATA[ Invoke bats interpreter with multiple test arguments or with path to a directory containing multiple .bats files.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Bats will run each test file individually and aggregate the results]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[If test case fails, bats exits with a 1 status code.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="19_30863873"/>
+      </layout>
+    </object>
+    <object id="25_30863873" type="button" x="-358.44436347856777" y="154.12483777154802" r="0" s="8.583525971453598" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>midnight-locked</parentTemplate>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="-251.62834329975584" y="-2252.697553485014" r="0" s="37.69361414065356" class="strong">
+      <height>27.1875</height>
+      <width>220.49939</width>
+      <p align="center">
+        <text><![CDATA[INDEX]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="25_30863873"/>
+      </layout>
+    </object>
+    <object id="6" type="image" x="-358.6036906087422" y="925.8035361285132" r="0" s="4.236228830824415">
+      <source w="1200" h="627">1447000918<url>1447000918.jpg</url></source>
+      <sourceUrl>Batman-arkham-origins-dark-knight.jpg</sourceUrl>
+    <resource><id>1447000918</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/3/e/9/5517ae3d08c3d4d858a3976cd456f01d7d939.jpg</url></resource></object>
+    <object id="5" type="text" x="673.8506883317987" y="-1212.420774585576" r="0" s="11.604162956068599" class="strong">
+      <height>81.5625</height>
+      <width>446.4726562</width>
+      <p listType="bullet" indent="1">
+        <text color="15728820"><![CDATA[WHY BATS]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="15728820"><![CDATA[HOW BATS]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="15728820"><![CDATA[WHAT BATS ]]></text>
+      </p>
+    </object>
+    <object id="7" type="text" x="17943.02855081756" y="3820.325851172576" r="0" s="50.25153763308028" class="strong">
+      <height>54.375</height>
+      <width>158.4257812</width>
+      <p>
+        <text><![CDATA[BY: JP,Sahana ]]></text>
+      </p>
+    </object>
+    <object id="3_71340841" type="image" x="7728.773620989686" y="-7600.651072708171" r="2.96693539157e-16" s="1.296216443093482">
+      <source w="1600" h="1200">0<url>a3435188e00aba42083cc18249c4cadcac7b9.jpg</url></source>
+      <sourceUrl>batman-wallpaper.jpg</sourceUrl>
+    </object>
+    <object id="1_102952408" type="image" x="6891.462065174098" y="-7724.088219143558" r="2.9669353915699996e-16" s="0.43754192436692585">
+      <source w="814" h="230">3466739591<url>3466739591.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-04-21%20at%202.36.41%20PM.png</sourceUrl>
+    <resource><id>3466739591</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/9/4/66e8d88f6d75a1ef02bdd964e33c720ae1ba1.png</url></resource></object>
+    <object id="2_102952408" type="image" x="7352.71829986947" y="-7724.088219143558" r="2.96693539157e-16" s="0.4240534426240852">
+      <source w="920" h="155">3466741445<url>3466741445.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-04-21%20at%202.47.14%20PM.png</sourceUrl>
+    <resource><id>3466741445</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/e/3/9/7d62159fc8e4387eab3262a25baccd6c4048f.png</url></resource></object>
+    <object id="10_30863873" type="text" x="7766.516052478578" y="-8052.914793118708" r="2.96693539157e-16" s="3.5190753727848083" class="body">
+      <height>163.125</height>
+      <width>646.4137939440528</width>
+      <p>
+        <text color="16775176"><![CDATA[   To run test case, we use bat command along with the path to test file]]></text>
+      </p>
+      <p>
+        <text color="16775176"><![CDATA[  ]]></text>
+      </p>
+      <p>
+        <text color="16775176"><![CDATA[Example]]></text>
+      </p>
+      <p>
+        <text color="16775176"><![CDATA[ bats  ls_test.bat or bats  -- tap ls_test.bat]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="18_30863873"/>
+      </layout>
+    </object>
+    <object id="6_71340841" type="button" x="-6193.149510460924" y="-9783.671050109202" r="0" s="5.04259405292364" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="7_71340841" type="text" x="-6287.221354469625" y="-11295.409083197863" r="0" s="8.679120798117" class="strong">
+      <height>27.1875</height>
+      <width>-187.23046875</width>
+      <p>
+        <text color="11793407"><![CDATA[What is BATS?]]></text>
+      </p>
+    </object>
+    <object id="1_71340841" type="text" x="-1215.99306210062" y="-8564.635189867226" r="2.96693539157e-16" s="5.242536149205029" class="body">
+      <height>462.1875</height>
+      <width>528.183138</width>
+      <p>
+        <text color="16711680"><![CDATA[BATS can be used to :]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16711680"><![CDATA[test command line commands ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16711680"><![CDATA[status of the command ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16711680"><![CDATA[Output of command can be verified ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16711680"><![CDATA[Output]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16711680"><![CDATA[Lines]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="16711680"><![CDATA[Share common method across file]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[BATS TEST EVALUATION :]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[       n +1]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[First run, gives the count of test cases]]></text>
+      </p>
+      <p>
+        <text color="16711680"><![CDATA[Then, iterates over the test cases and executes each one in its own process.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16744448"><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="8_71340841" type="text" x="-6108.29398163663" y="-9749.14443399892" r="0" s="4.192606161128257" class="body">
+      <height>598.125</height>
+      <width>678.7567485</width>
+      <p>
+        <text color="16248250"><![CDATA[BATS : Bash Automation Testing System]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[TAP-compliant framework for testing BASH]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[BATS help us to verify the UNIX program  and check it works as expected.]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[BATS test file is a BASH script with special syntax for defining test cases.]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[Each Test case is just a function with a description.]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[BATS is more useful in testing software written in BASH. ]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[Test cases consists of standard shell commands]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[Every command in BATS test cases exits with 0 (success).]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[ ]]></text>
+      </p>
+      <p>
+        <text color="16248250"><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="11_71340841" type="button" x="2656.1050742027546" y="-11341.51699119262" r="0" s="4.510247198289045" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4_102952408" type="image" x="2016.8773448792006" y="-12107.57104433672" r="0" s="0.9688969401238244">
+      <source w="1370" h="746">3466774733<url>3466774733.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-05-26%20at%2010.30.49%20AM.png</sourceUrl>
+    <resource><id>3466774733</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/8/6/d43ba6082f0fead3a448aeb644eaafa53fe36.png</url></resource></object>
+    <object id="12_71340841" type="text" x="2664.697113397765" y="-12729.543344692027" r="0" s="8.322888278566126" class="strong">
+      <height>54.375</height>
+      <width>100.81640625</width>
+      <p>
+        <text color="5974240"><![CDATA[Syntax of BATS]]></text>
+      </p>
+    </object>
+    <object id="16_71340841" type="text" x="7768.92448112127" y="-8532.229865354435" r="2.9669353915699987e-16" s="6.27432261433598" class="strong">
+      <height>54.375</height>
+      <width>318.6328125</width>
+      <p align="center">
+        <text><![CDATA[Running Test Case ]]></text>
+      </p>
+      <p align="center">
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="17_71340841" type="text" x="8039.20996345573" y="-11997.363177975038" r="0" s="4.055130569373045" class="strong">
+      <height>81.5625</height>
+      <width>-244.83984375</width>
+      <p>
+        <text color="16762854"><![CDATA[run ,lines,]]></text>
+      </p>
+      <p>
+        <text color="16762854"><![CDATA[output and status]]></text>
+      </p>
+      <p>
+        <text color="16762854"><![CDATA[ ]]></text>
+      </p>
+    </object>
+    <object id="20_71340841" type="image" x="7935.20995816731" y="-10160.950411880392" r="0" s="0.7818856900545544">
+      <source w="1280" h="800">1450871338<url>1450871338.jpg</url></source>
+      <sourceUrl>Batman-Arkham-Origins-.jpg</sourceUrl>
+    <resource><id>1450871338</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/3/3/1308d0c9b87b8a67b5972726dd0a08dabe891.jpg</url></resource></object>
+    <object id="18_71340841" type="text" x="8066.677353210586" y="-11161.015420233667" r="0" s="3.312945116386816" class="body">
+      <height>435</height>
+      <width>567.0663860573743</width>
+      <p>
+        <text color="16749190"><![CDATA[run is Helper that invokes its argument as a command.]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[Saves the exit status in status variable]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[Output of it is stored in output global variable.It also has the standard error message.]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[Using this we can continue to make assertion in your test cases.]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[lines is an array it is used for easily accessing indivual line of output.]]></text>
+      </p>
+      <p>
+        <text color="16749190"><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="22_71340841" type="button" x="7909.925116771976" y="-3169.8330284926496" r="0" s="3.458847109840118" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="23_71340841" type="text" x="8343.4144389876" y="-4264.1071377273665" r="0" s="3.6078864521263507" class="strong">
+      <height>54.375</height>
+      <width>552</width>
+      <p>
+        <text color="3518377"><![CDATA[SETUP AND TEAR DOWN]]></text>
+      </p>
+      <p>
+        <text color="3518377"><![CDATA[Pre and Post Test Hooks]]></text>
+      </p>
+    </object>
+    <object id="25_71340841" type="text" x="4712.807818403228" y="4234.755463009765" r="0" s="14.338806762569215" class="head head-background">
+      <height>28.8</height>
+      <width>54.444</width>
+      <p>
+        <text><![CDATA[THE END]]></text>
+      </p>
+    </object>
+    <object id="7_102952408" type="image" x="-2266.8196119364466" y="-12194.348709782398" r="0" s="0.7092965639109269">
+      <source w="1376" h="542">3466815059<url>3466815059.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-05-26%20at%2010.48.18%20AM.png</sourceUrl>
+    <resource><id>3466815059</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/f/2/890b34d38fdfc4b862e368a1218b6051bad24.png</url></resource></object>
+    <object id="29_71340841" type="text" x="-2079.8612307930953" y="-12554.94402013327" r="0" s="5.607655848030502" class="head head-background">
+      <height>28.8</height>
+      <width>151.3871523</width>
+      <p align="center">
+        <text><![CDATA[Example]]></text>
+      </p>
+    </object>
+    <object id="31_71340841" type="button" x="2482.3297029459586" y="-5604.156538168157" r="0" s="2.875612073473798" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="32_71340841" type="text" x="2408.65986173149" y="-6417.733735006171" r="0" s="4.813391278427831" class="head head-background">
+      <height>28.8</height>
+      <width>-170.04</width>
+      <p>
+        <text><![CDATA[load: Share common code ]]></text>
+      </p>
+    </object>
+    <object id="3_102952408" type="text" x="7651.385804845548" y="-7285.47911495531" r="2.96693539157e-16" s="3.5190753727848083" class="body">
+      <height>190.3125</height>
+      <width>552</width>
+      <p>
+        <text color="16775176"><![CDATA[When the command is executed from terminal.This first, gets the count of the number of test cases present in the bat file.]]></text>
+      </p>
+      <p>
+        <text color="16775176"><![CDATA[Then, each test case is executed sequentially.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="5_102952408" type="text" x="2467.954119994863" y="-10789.744355978628" r="0" s="3.7104544139673106" class="body">
+      <height>435</height>
+      <width>597.0143619046165</width>
+      <p>
+        <text><![CDATA[Here, ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[#!/usr/bin/env bats  , this is used to specify that the script has to be executed by bat]]></text>
+      </p>
+      <p>
+        <text><![CDATA[@test is the command to specify that it is a test case]]></text>
+      </p>
+      <p>
+        <text><![CDATA[String in quotes  “test_case_name” : test definition is declared.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[A space between definition and curly braces is necessary]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Command executed , inside the curly braces, the LINUX command is executed]]></text>
+      </p>
+      <p>
+        <text><![CDATA[The closing curly braces is always at the next line.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="6_102952408" type="image" x="3345.5160460637458" y="-12107.514731769912" r="0" s="1.0413296404573922">
+      <source w="1222" h="646">3466804706<url>3466804706.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-05-26%20at%2010.43.55%20AM.png</sourceUrl>
+    <resource><id>3466804706</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/1/c/c/b06965250c895d43e585e7dd063794975011d.png</url></resource></object>
+    <object id="8_102952408" type="text" x="-2046.7522407922927" y="-11536.739517010154" r="0" s="2.3199132948042007" class="body">
+      <height>353.4375</height>
+      <width>706.4608262115352</width>
+      <p>
+        <text><![CDATA[The above code snippet of the]]></text>
+      </p>
+      <p>
+        <text><![CDATA[example ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Run ls –l test is executed to check the listing of the test file]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[The status of the command is stored in status variable]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Output of the command is compared]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[[ ] is used to verify the test case.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="9_102952408" type="text" x="2490.5006578169664" y="-5773.608189199494" r="0" s="2.4909363828301587" class="body">
+      <height>135.9375</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Share common code across multiple test files.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Bats include convenient load command for sourcing Bash source.]]></text>
+      </p>
+    </object>
+    <object id="14_102952408" type="button" x="-3265.410359080023" y="-5237.494206758801" r="0" s="3.2240277609275108" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="15_102952408" type="text" x="-3414.114466010816" y="-6149.646263866668" r="0" s="5.396592693781194" class="head head-background">
+      <height>28.8</height>
+      <width>-145.53600000000003</width>
+      <p>
+        <text><![CDATA[skip : skip a test case ]]></text>
+      </p>
+    </object>
+    <object id="16_102952408" type="text" x="-3323.8319191618116" y="-5736.561562528255" r="0" s="3.3675491884989555" class="body">
+      <height>81.5625</height>
+      <width>552</width>
+      <p>
+        <text><![CDATA[Tests can be skipped by using the skip command at the point in a test you wish to skip.]]></text>
+      </p>
+    </object>
+    <object id="17_102952408" type="image" x="-3259.318719468421" y="-5186.468135312093" r="0" s="1.9014369460017273">
+      <source w="1160" h="264">3466826630<url>3466826630.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-05-26%20at%2010.52.50%20AM.png</sourceUrl>
+    <resource><id>3466826630</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/b/0/c1ab5055850ac2943a451b71ccdb3712e6cf3.png</url></resource></object>
+    <object id="18_102952408" type="image" x="-3259.381854993668" y="-4602.338255722678" r="0" s="1.2433632582209606">
+      <source w="1230" h="278">3466826672<url>3466826672.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-05-26%20at%2010.52.55%20AM.png</sourceUrl>
+    <resource><id>3466826672</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/2/5/7/67e120c66eecd28485c385b58b50e38ef8e19.png</url></resource></object>
+    <object id="19_102952408" type="text" x="7875.186294681294" y="-2472.209301258747" r="0" s="2.315377488889126" class="body">
+      <height>271.875</height>
+      <width>705.00078125</width>
+      <p>
+        <text><![CDATA[Special function are setup and teardown]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Setup run before running any test case]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Teardown run after each test case]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Setup can be used to setup your environment]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Teardown can be used to clean up]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="20_102952408" type="image" x="7841.173504331397" y="-3476.712867916792" r="0" s="1.0683382393868865">
+      <source w="1150" h="844">3466849457<url>3466849457.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-05-26%20at%2011.03.32%20AM.png</sourceUrl>
+    <resource><id>3466849457</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/b/0/d4df015b519abd2eed1481148fe9353c4c7b4.png</url></resource></object>
+    <object id="21_102952408" type="button" x="5237.89985352779" y="-1454.247031134436" r="0" s="3.458847109840119" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="24_102952408" type="text" x="5326.648458811628" y="-2493.1012635432035" r="0" s="9.010010688714386" class="strong">
+      <height>27.1875</height>
+      <width>160.21064194852192</width>
+      <p>
+        <text color="16711680"><![CDATA[KEY POINTS]]></text>
+      </p>
+    </object>
+    <object id="25_102952408" type="text" x="5214.868013704764" y="-1368.314054190821" r="0" s="4.11567136615581" class="strong">
+      <height>407.8125</height>
+      <width>477.00211073829627</width>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[To run test cases, bat package has to be installed.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[All the Test cases needs to be stored in .bat file]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[All test cases should begin with @test]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Setup and teardown is always executed at the beginning and at the end of each test cases respectively.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Setup : sets up environment]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text weight="normal"><![CDATA[Teardown : cleans up after testing]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+    </object>
+    <object id="26_102952408" type="button" x="-5278.471997206034" y="-1455.3732824705235" r="0" s="3.4588471098401183" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="29_102952408" type="image" x="-5278.528309772838" y="-1455.3732824705235" r="0" s="1.509125501435417">
+      <source w="1264" h="718">3466863203<url>3466863203.png</url></source>
+      <sourceUrl>Screen%20Shot%202015-05-26%20at%2011.08.21%20AM.png</sourceUrl>
+    <resource><id>3466863203</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/6/1/e/9da0ba4f586c830ce111cb38b4592fccc7f38.png</url></resource></object>
+    <object id="30_102952408" type="text" x="-5278.69724747325" y="-2448.7832734680896" r="0" s="3.504018241652219" class="strong">
+      <height>27.1875</height>
+      <width>-388.86328125</width>
+      <p>
+        <text><![CDATA[Example:echo output to file]]></text>
+      </p>
+    </object>
+    <object id="31_102952408" type="text" x="-15385.569342892284" y="1279.776660301641" r="-18.698127824847834" s="37.69361414065356" class="strong">
+      <height>54.375</height>
+      <width>286.204</width>
+      <p>
+        <text color="16775176"><![CDATA[BASH AUTOMATED TEST SYSTEM]]></text>
+      </p>
+    </object>
+    <object id="32_102952408" type="text" x="-16055.96644787289" y="-8824.635575528273" r="-18.698127824847834" s="37.69361414065356" class="strong">
+      <height>27.1875</height>
+      <width>265.38515625</width>
+      <p>
+        <text color="16775176"><![CDATA[BATS COMPONENTS]]></text>
+      </p>
+    </object>
+    <object id="33_102952408" type="text" x="16694.953149162346" y="-5645.984439734585" r="-29.130694552023705" s="63.98308815597775" class="strong">
+      <height>54.375</height>
+      <width>144.0234375</width>
+      <p>
+        <text color="16775176"><![CDATA[BATS IN ACTION]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="4.528307131716273" fadescale="1.5824886771997766">
+      <object id="background881505999" type="image" x="-196.70778575971391" y="-1839.6005062476313" r="0" s="23.33589473018955">
+        <source w="1300" h="1000">881505999<url>881505999.png</url></source>
+        <sourceUrl>midnightBGO_compressed3.png</sourceUrl>
+      <resource><id>881505999</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/8/0/44a7160ed456d27aa5101d2ac3abb0b2b5418.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="1_24309637"/>
+    </s>
+    <s>
+      <eagle o="25_30863873"/>
+    </s>
+    <s>
+      <eagle o="20_30863873"/>
+    </s>
+    <s>
+      <eagle o="16_30863873"/>
+    </s>
+    <s>
+      <eagle o="17_30863873"/>
+    </s>
+    <s>
+      <eagle o="18_30863873"/>
+    </s>
+    <s>
+      <eagle o="1_102952408"/>
+    </s>
+    <s>
+      <eagle o="2_102952408"/>
+    </s>
+    <s>
+      <eagle o="19_30863873"/>
+    </s>
+    <s>
+      <eagle o="6_71340841"/>
+    </s>
+    <s>
+      <eagle o="11_71340841"/>
+    </s>
+    <s>
+      <eagle o="4_102952408"/>
+    </s>
+    <s>
+      <eagle o="6_102952408"/>
+    </s>
+    <s>
+      <eagle o="15_71340841"/>
+    </s>
+    <s>
+      <eagle o="28_71340841"/>
+    </s>
+    <s>
+      <eagle o="7_102952408"/>
+    </s>
+    <s>
+      <eagle o="14_102952408"/>
+    </s>
+    <s>
+      <eagle o="17_102952408"/>
+    </s>
+    <s>
+      <eagle o="18_102952408"/>
+    </s>
+    <s>
+      <eagle o="31_71340841"/>
+    </s>
+    <s>
+      <eagle o="22_71340841"/>
+    </s>
+    <s>
+      <eagle o="20_102952408"/>
+    </s>
+    <s>
+      <eagle o="21_102952408"/>
+    </s>
+    <s>
+      <eagle o="26_102952408"/>
+    </s>
+    <s>
+      <eagle o="29_102952408"/>
+    </s>
+    <s>
+      <eagle o="25_71340841"/>
+    </s>
+    <s>
+      <eagle o="1_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('LiberationMonoPR-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Regular.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LiberationMonoPR-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: LiberationMonoPR;
+}
+
+@font-face
+{
+	src: url('LeagueGothic-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: LeagueGothic;
+}
+
+*
+{
+	padding: 1;
+}
+
+.line1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	color: #3682a2;
+	gradEndColor: #3682a2;
+	gradStartColor: #3682a2;
+}
+
+.line2
+{
+	borderAlpha: 0;
+	borderColor: #6c7279;
+	color: #6c7279;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.line3
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 1;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+.line4
+{
+	borderAlpha: 0;
+	borderColor: #6a84a7;
+	color: #edc213;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.line5
+{
+	borderAlpha: 0;
+	borderColor: #7a4780;
+	color: #7a4780;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+.poly1
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #222;
+	gradStartColor: #222;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderColor: #3682a2;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6c7279;
+	gradStartColor: #6c7279;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #9fc4f6;
+	gradStartColor: #9fc4f6;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderColor: #edc213;
+	borderThickness: 0;
+	color: #000;
+	gradEndColor: #6a84a7;
+	gradStartColor: #6a84a7;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 9;
+	color: #000;
+	gradEndColor: #d84b4e;
+	gradStartColor: #d84b4e;
+}
+
+Background
+{
+	gradEnd: #000;
+	gradStart: #000;
+}
+
+Grid
+{
+	color: #464646;
+}
+
+ZArrow
+{
+	alpha: 1;
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 1;
+	color: #000;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 10;
+}
+
+ZCircle
+{
+	alpha: 0.3;
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: -1;
+	color: #333;
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	alpha: 1;
+	color: #fff;
+	thickness: 3;
+}
+
+ZFrame.bracket
+{
+	alpha: 0.3;
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	color: #333;
+	gradEndAlpha: 0.6;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.6;
+	gradStartColor: #fff;
+	thickness: 4;
+}
+
+ZFrame.circle
+{
+	alpha: 0.3;
+	borderAlpha: 0;
+	borderColor: #fff;
+	borderThickness: 0;
+	color: #333;
+	gradEndAlpha: 1;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 4;
+}
+
+ZFrame.invisible
+{
+	alpha: 0.3;
+	borderAlpha: 0.5;
+	borderColor: #333;
+	borderThickness: -1;
+	color: #333;
+	gradEndAlpha: 0.7;
+	gradEndColor: #000;
+	gradStartAlpha: 0.4;
+	radius: 2.5;
+	thickness: 10;
+}
+
+ZFrame.roundrect
+{
+	alpha: 0.3;
+	borderAlpha: 1;
+	borderColor: #fff;
+	borderThickness: 6;
+	color: #333;
+	gradEndAlpha: 0.2;
+	gradEndColor: #fff;
+	gradStartAlpha: 0.2;
+	gradStartColor: #fff;
+	radius: 10;
+	thickness: 4;
+}
+
+ZFrame.roundrect.ui
+{
+	alpha: 0.75;
+	borderAlpha: 0.2;
+	borderColor: #333;
+	borderThickness: -1;
+	color: #d7d7d7;
+	gradEndAlpha: 0.7;
+	gradEndColor: #000;
+	gradStartAlpha: 0.4;
+	radius: 10;
+	thickness: 10;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel. GLUIFont.ui
+{
+	alpha: 0.75;
+	color: #707070;
+	padding: 1.2;
+	size: 24;
+}
+
+ZLabel.body
+{
+	color: #fff;
+	fontFamily: body;
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+	size: 24;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #6a84a7;
+	background-padding: 20;
+}
+
+ZLabel.head
+{
+	color: #d84b4e;
+	fontFamily: head;
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+	size: 24;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #333;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #fff;
+	fontFamily: strong;
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+	size: 24;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #6c7279;
+	background-padding: 8;
+}
+
+ZLine
+{
+	alpha: 1;
+	color: #fff;
+	dash: 0;
+}
+
+ZMarker
+{
+	alpha: 0.75;
+	color: #d84b4e;
+	thickness: 15;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+	textColor: #000;
+}
+
+ZPath Ball.mid
+{
+	alpha: 0.5;
+	fillColor: #40abe6;
+	radius: 8;
+	textColor: #000;
+}
+
+ZPoly
+{
+	alpha: 0.3;
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: -1;
+	color: #333;
+	gradEndAlpha: 1;
+	gradEndColor: #000;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-4f309c70</hash>
+<sync><oid>d8dkn5mxpeh_</oid><title>copy-of-batman</title><hash>-4f309c70</hash></sync><config>cIRe3LKW9G3UouK1YcQb9R197iU1oWzKvGhN0WMP/cwLEnPxs3m2vTkX14+v+PfMcWATmrBQigqxP2862DSoWfHtiVcXe4RtncmkjjrNzwY4DpbmdEWtvsmbGz3IACZq3s4fELEoQ3HRpfXvPd2YwAEh0aRtw1irVjoEDHMLOMLRz+QolkCfcJCEQ8rp8iZXcS7wdoQZyHS0TAsOtolAyHhbB6oGkwppcDis/sfTsjuRlF4/ibEPdGdqzj5al+pPk/HrI89/jDj60z6VekaVu/7M4SDSzqeJraFlyyV7COcXTXJqgpl/2iZB427cTyhbifiomV24PB1jMFBynSC/3g==</config></zuiprezi>
